@@ -2,7 +2,6 @@ import React from 'react';
 
 const aboutMe = () => (
     <>
-    <h1>Hello, welcome to my blog!</h1>
     <p>
         Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
         Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 

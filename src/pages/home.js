@@ -1,10 +1,11 @@
 import React from 'react';
-import './home.css'
+import './pages.css'
 
 const home = () => (
     <>
-    <h1>Hello, welcome to my blog!</h1>
-    <p className="surprise">
+    <h1>Hello, welcome to my portfolio!</h1>
+    <h2>My name is Filip Nedeljkovic</h2>
+    <p>
         Welcome to my blog! Proin congue
         ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
         Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis, 
